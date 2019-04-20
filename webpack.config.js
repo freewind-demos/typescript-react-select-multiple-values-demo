@@ -21,5 +21,8 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin()
-  ]
+  ],
+  devServer: {
+    host: '0.0.0.0'
+  }
 }
