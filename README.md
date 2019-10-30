@@ -1,7 +1,7 @@
-TypeScript React Select Demo
+TypeScript React Select Multiple Values Demo
 =================================
 
-既可以输入又可以选择的Select组件。
+选择多个value
 
 ```
 npm install
